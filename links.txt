@@ -1,0 +1,28 @@
+Programming avrisp
+
+Part numbers:
+http://www.nongnu.org/avrdude/user-manual/avrdude_4.html
+
+Videos:
+https://www.youtube.com/watch?v=YtTpUbnct6s
+https://www.youtube.com/watch?v=BPxgv2PXGw8
+https://www.youtube.com/watch?v=9ADxPRjZI4Q
+
+Links:
+http://www.protostack.com/accessories/usbasp-avr-programmer
+http://imakeprojects.com/Projects/avr-tutorial/
+
+Avr Programmer code: avrisp
+
+Microchip Code:
+m328p
+t85
+
+
+MOSI
+MISO ( master in slave out)
+SCK
+Reset
+
+VCC
+GND
